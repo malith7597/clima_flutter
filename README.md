@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![projectImage]'https://github.com/malith7597/clima_flutter/blob/master/Screenshot%20from%202023-05-11%2010-08-33.png'
+![projectImage](https://github.com/malith7597/clima_flutter/blob/master/Screenshot%20from%202023-05-11%2010-08-33.png?raw=true)
